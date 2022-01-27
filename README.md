@@ -1,0 +1,3 @@
+- 👋 Hi, I’m vivek. I am a Bsc computer application student.
+- 👀 I’m interested in web and app development. I am also interested in Ai,blockchain along with some art & design stuffs.
+- 🌱 I’m currently learning backend web development using python and Django.
