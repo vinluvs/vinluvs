@@ -1,2 +1,2 @@
-- 👋 Hi, I’m vivek. I am a Bsc computer application student.
-- 👀 I’m interested in web and app development. I am also interested in Ai,cloud and data science along with some art & design stuffs.
+- 👋 Hi, I’m vivek. I am a Bsc computer application graduate and self-learner.
+- 👀 I’m interested in web and app development. I am also interested in generative Ai along with some art & design stuffs.
